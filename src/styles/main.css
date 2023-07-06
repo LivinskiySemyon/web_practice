@@ -1,0 +1,7 @@
+@import "./reset.css";
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    color: #000000;
+    background: lightgray 50% / cover no-repeat;
+}
